@@ -23,4 +23,4 @@ npm run lint
 
 https://git-tonic.herokuapp.com/
 
-#### You can install on chrome to have this tracking app on your browser.
+You can install on chrome to have this tracking app on your browser.
